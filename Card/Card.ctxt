@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Card
+comment0.text=\r\n\ CSIS\ 114\ Lab\ Dealhands\r\n\r\n\ @author\ Drew\ Theis\r\n\ @version\ 4/29/2018\r\n
+comment1.params=inSuit\ inRank
+comment1.target=Card(int,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Card\r\n\ set\ passed\ values\ in\ creating\ rank\ and\ suit\r\n\ checks\ passed\ values\ to\ check\ if\ input\ is\ valid\ to\ be\ assigned\r\n
+comment2.params=
+comment2.target=java.lang.String\ toString()
+comment2.text=\r\n\ Method\ for\ toString\r\n\ @return\ gives\ string\ for\ card\ values\ formats\ suit\ and\ rank\r\n\ takes\ passed\ values\ to\ assign\ rank\ and\ suit\ value\ of\ individual\ card\r\n\ takes\ numbers\ larger\ than\ 10\ to\ be\ respective\ values\ for\ J,\ Q,\ K,\ A\r\n\ takes\ interger\ value\ for\ suit\ and\ assigns\ clubs,\ diamonds,\ hearts,\ and\ spades\r\n
+numComments=3

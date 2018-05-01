@@ -1,0 +1,4 @@
+Area is: 121.0
+Area is: 25.0
+Area is: 25.0
+Area is: 25.0

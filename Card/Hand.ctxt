@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Hand
+comment1.params=
+comment1.target=Hand()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Hand\r\n\ handles\ arraylist\ fors\ adding\ cards\ to\ players\ hand\r\n
+comment2.params=c
+comment2.target=void\ addCard(Card)
+comment2.text=\r\n\ Method\ for\ toString\r\n\ @param\ adds\ value\ of\ element\ to\ arraylist\ cards\r\n
+comment3.params=
+comment3.target=java.lang.String\ toString()
+comment3.text=\r\n\ Method\ for\ toString\r\n\ @return\ gives\ string\ for\ card\ assigned\ to\ player\ hand\r\n
+numComments=4

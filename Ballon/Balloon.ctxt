@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Balloon
+comment0.text=\r\n\ CSIS\ 114\ Lab\ Balloon\r\n\r\n\ @author\ Drew\ Theis\r\n\ @version\ 3/1/2018\r\n
+comment1.params=color\ size
+comment1.target=Balloon(java.lang.String,\ double)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Ballon\r\n
+comment2.params=
+comment2.target=void\ inflate()
+comment2.text=\r\n\ Method\ for\ inflate\r\n\ @param\ userSize\ uses\ equation\ 4/3pisize^3\ from\ lab\ description\r\n
+comment3.params=
+comment3.target=double\ volume()
+comment3.text=\r\n\ Method\ for\ volume\r\n\ @param\ return\ userSize\r\n
+comment4.params=
+comment4.target=java.lang.String\ returnColor()
+comment4.text=\r\n\ Method\ for\ returnColor\r\n\ @param\ return\ userColor\r\n
+numComments=5

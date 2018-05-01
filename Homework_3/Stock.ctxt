@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Stock
+comment0.text=\r\n\ Writing\ a\ Class\ Homework\r\n\r\n\ @author\ Drew\ Theis\r\n\ @version\ 02/17/2018\r\n
+comment1.params=symb\ currentPrice
+comment1.target=Stock(java.lang.String,\ double)
+comment2.params=
+comment2.target=java.lang.String\ getSymbol()
+comment3.params=
+comment3.target=double\ getPrice()
+comment4.params=byPercent
+comment4.target=void\ changePrice(double)
+numComments=5

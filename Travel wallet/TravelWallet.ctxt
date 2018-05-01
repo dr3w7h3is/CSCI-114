@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TravelWallet
+comment0.text=\r\n\ CSIS\ 114\ Lab\ Travel\ Wallet\r\n\r\n\ @author\ Drew\ Theis\r\n\ @version\ 2/24/2018\r\n
+comment1.params=rate
+comment1.target=TravelWallet(double)
+comment1.text=\r\n\ TravelWallet\ Constructor\r\n
+comment2.params=locSpend
+comment2.target=void\ spendLocal(double)
+comment2.text=\r\n\ Method\ spendLocal\r\n\ @param\ locSpend\ subtracts\ amount\ of\ local\ currency\ spent\r\n
+comment3.params=amtToExch
+comment3.target=void\ exchangeDollarsToLocal(double)
+comment3.text=\r\n\ Method\ exchangeDollarsToLocal\r\n\ @param\ amtToExch\ transfer\ from\ dollar\ to\ local\ Currency\r\n
+comment4.params=
+comment4.target=double\ totalAmountInDollars()
+comment4.text=\r\n\ Returns\ totalAmountInDollars\r\n\ @return\ total\ value\ of\ all\ curriencies\ in\ dollar\ format\r\n
+numComments=5

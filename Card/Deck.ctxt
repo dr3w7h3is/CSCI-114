@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Deck
+comment1.params=
+comment1.target=Deck()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deck\r\n\ \r\n\ Create\ initial\ list\ of\ cards\ set\ to\ standard\ 52\ deck\ of\ playing\ cards\r\n
+comment2.params=
+comment2.target=void\ shuffle()
+comment2.text=\r\n\ Method\ shuffle\r\n\ @param\ gives\ string\ for\ card\ values\ formats\ suit\ and\ rank\r\n
+comment3.params=players
+comment3.target=void\ dealCard(int)
+comment3.text=\r\n\ Method\ dealCard\r\n\ @param\ gives\ string\ for\ card\ values\ formats\ suit\ and\ rank\r\n
+comment4.params=
+comment4.target=java.lang.String\ toString()
+comment4.text=\r\n\ Method\ for\ toString\r\n\ @return\ gives\ arraylist\ to\ string\ for\ DealHands\r\n
+numComments=5

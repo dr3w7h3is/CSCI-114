@@ -1,0 +1,25 @@
+A brand new. Fresh deck
+2♣ 3♣ 4♣ 5♣ 6♣ 7♣ 8♣ 9♣ 10♣ J♣ Q♣ K♣ A♣ 
+2♢ 3♢ 4♢ 5♢ 6♢ 7♢ 8♢ 9♢ 10♢ J♢ Q♢ K♢ A♢ 
+2♡ 3♡ 4♡ 5♡ 6♡ 7♡ 8♡ 9♡ 10♡ J♡ Q♡ K♡ A♡ 
+2♠ 3♠ 4♠ 5♠ 6♠ 7♠ 8♠ 9♠ 10♠ J♠ Q♠ K♠ A♠ 
+
+Shuffled
+J♢ 6♣ Q♠ K♢ 5♠ 2♠ 9♣ A♡ Q♣ 9♡ 9♠ J♣ K♡ 
+J♡ 4♣ 9♢ 6♡ 10♠ 7♠ 2♣ A♠ 3♣ 5♡ A♢ 8♣ 3♡ 
+8♠ 3♠ 10♢ 7♣ 10♣ 4♢ 4♠ Q♡ K♠ 5♣ 2♡ 8♢ A♣ 
+3♢ 8♡ 6♠ 10♡ 6♢ K♣ Q♢ J♠ 7♡ 7♢ 2♢ 5♢ 4♡ 
+
+How many players? 3
+Player: 1[J♢, K♢, 9♣, 9♡, K♡]
+Player: 2[6♣, 5♠, A♡, 9♠, J♡]
+Player: 3[Q♠, 2♠, Q♣, J♣, 4♣]
+
+What remains
+9♢ 6♡ 10♠ 7♠ 2♣ A♠ 3♣ 5♡ A♢ 8♣ 3♡ 8♠ 3♠ 
+10♢ 7♣ 10♣ 4♢ 4♠ Q♡ K♠ 5♣ 2♡ 8♢ A♣ 3♢ 8♡ 
+6♠ 10♡ 6♢ K♣ Q♢ J♠ 7♡ 7♢ 2♢ 5♢ 4♡ 
+
+Test error handling
+In Card: Constructor() var: inRank not valid: -1
+In Card: Constructor() var: inSuit not valid: 4
