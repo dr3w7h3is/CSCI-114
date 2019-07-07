@@ -1,8 +1,8 @@
 /**
  * Tests the Stock class.
  * 
- * @author Anthony W. Smith 
- * @version 5/31/2028
+ * @author Drew Theis
+ * @version 1/29/19
  */
 public class StockTester
 {
